@@ -1,5 +1,8 @@
 _repo: Niccolo-Machiavelli-e-i-suoi-tempi-vol-III_61706
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61706-h/images/cover.jpg
 creator:
   author:
     agent_name: Villari, Pasquale
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pasquale_Villari
     - https://it.wikipedia.org/wiki/Pasquale_Villari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61706#Niccolo-Machiavelli-e-i-suoi-tempi-vol-III
 gutenberg_issued: '2020-03-30'
 gutenberg_type: Text
 identifiers:
